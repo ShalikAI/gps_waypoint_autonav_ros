@@ -1,4 +1,4 @@
-# GPS-waypoint-based-Autonomous-Navigation-in-ROS
+# GPS Waypoint-based Autonomous Navigation
 GPS points will be predefined for the robot to navigate to the destination avoiding obstacles.
 
 This repo package was tested on:
